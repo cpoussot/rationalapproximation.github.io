@@ -1,4 +1,4 @@
-<img src="logo.png" width=180 align="right"> This repository is a collaborative space designed to bring together the many software packages, tools, and libraries related to rational approximation in one centralized location. Whether you're working on interpolation, best approximation, model reduction, or other related areas, our goal is to create a comprehensive and accessible directory of available software.
+<img src="logo.png" width=180 align="right"> This repository is a collaborative space designed to bring together information about the many software packages, tools, and libraries related to rational approximation in one centralized location. Whether you're working on interpolation, best approximation, model reduction, or other related areas, our goal is to create a comprehensive and accessible directory of available software.
 
 We invite researchers, developers, and enthusiasts to contribute by sharing their own tools or pointing to existing ones—helping the community stay connected and informed.
 
